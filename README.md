@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nql5161 "Nik"
-- 👀 I’m interested in backend development, technical architecture & automotive engineering (my knowledge is limited to E46 MS43.0 DME).
+- 👀 I’m interested in backend development, technical architecture & automotive engineering (my knowledge is limited to BMW E46 MS43.0 DME).
 - 🌱 I’m currently learning microservice architecture, shell scripting & TypeScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
